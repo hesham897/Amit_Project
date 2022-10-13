@@ -1,0 +1,147 @@
+#header{
+    background-color: #F7F9FE;
+    background-image: url(assets/images/shape-a.png);
+    width: 100%;
+    height: 700px;
+    justify-content: center;
+}
+#Navbar{
+    width: 60%;
+    margin: auto; 
+    padding: 30px;
+}
+
+#MainHeader{
+    width: 60%;
+    margin: auto;
+    padding: 30px;
+}
+#TextCorona{
+    color: #50658e;
+    font-size: 100px;
+    font-family:Oswald;
+}
+#TextCovid{
+    color:#f86168;
+    font-family:Oswald;
+    font-size: 32px;
+}
+#TextVirus{
+    color: #50658e;
+    font-family:Oswald;
+    font-size: 40px;
+}
+
+#Counters{
+    padding-top:120px ;
+}
+#Counters h6{
+    color:#7d92bb; 
+    font-size:12px;
+    font-weight:700 ;
+    text-transform: uppercase;
+}
+#Counters p{
+    color:#465675; 
+    font-size:28px;
+    font-weight:700 ;
+}
+
+#about{
+    height: 600px;
+    width: 60%;
+    margin:auto;
+    padding: 120px;
+}
+#about h5{
+    color:#7d92bb; 
+    font-size:18px;
+    font-weight:700;
+    text-transform:uppercase;
+}
+#about h2{
+    color:#50658e;
+    font-size:40px;
+    text-transform:uppercase;
+    font-family:fantasy;
+}
+#spread{
+    background-color:#F7F9FE;
+    width:100%;
+    height:800px;
+    padding: 120px;
+}
+#spread .card img{
+    border-bottom: 6px solid #9cc2f7;
+}
+#symptoms{
+    width: 60%;
+    margin: auto;
+    padding: 120px;
+}
+#symptoms .card {
+    width: 280px;
+    height: 200px;
+
+}
+#symptoms .card img{
+    width:80px;
+    border-radius:40px;
+    right:30px;
+    top:-40px;
+    position: absolute;
+}
+
+#prevention{
+    background-color:#F7F9FE;
+    width:100%;
+    height: 900px;
+    padding: 120px;
+}
+#prevention .col-3 img{
+    width: 120px;
+    border-radius: 60px;
+}
+
+#steps{
+    background-color: #F7F9FE;
+    width: 100%;
+    height: 600px; 
+}
+#handwash{
+    background-color: #F7F9FE;
+    width: 100%;
+    height: 500px;
+    padding: 120px; 
+}
+#treatment{
+    background-color: #2766bb;
+    background-image: url(assets/images/shape-a.png);
+    width: 100%;
+    height: 600px;
+    padding: 120px;
+}
+#protect{
+    background-color: #F7F9FE;
+    width: 100%;
+    height: 800px;
+    padding: 120px;
+}
+#faq{
+    width: 60%;
+    margin: auto;
+    padding: 120px; 
+}
+#news{
+    background-color: #F7F9FE;
+    width: 100%;
+    height: 600px;
+    padding: 120px;
+}
+#footer{
+    background-color: #151c2e; 
+    background-image: url(assets/images/shape-a.png);
+    width: 100%;
+    height: 400px;
+    color: #b2bfe0;
+}
