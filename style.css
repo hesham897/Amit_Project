@@ -145,3 +145,17 @@
     height: 400px;
     color: #b2bfe0;
 }
+.SubTitle{
+    color:#7d92bb; 
+    font-size:18px;
+    font-weight:700;
+    text-transform:uppercase;
+    text-align:center; 
+}
+.Title{
+    color:#50658e; 
+    font-size:40px;
+    text-transform:uppercase;
+    font-family:fantasy;
+    text-align: center 
+}
